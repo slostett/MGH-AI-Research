@@ -1,4 +1,5 @@
-<img width="566" alt="image" src="https://github.com/user-attachments/assets/b8f30e56-88ed-4487-9ecd-e191147f20ea" /># MGH-AI-Research
+<img width="566" alt="image" src="https://github.com/user-attachments/assets/b8f30e56-88ed-4487-9ecd-e191147f20ea" /># 
+MGH-AI-Research
 Brief samples of my work from my summer research fellowship at MGH. 
 
 This project was a continuation and extension of this paper https://www.researchgate.net/publication/355223156_Deep_learning-based_GTV_contouring_modeling_inter-_and_intra-_observer_variability_in_sarcomas, originally published by the El-Fakhri lab prior to my arrival in May 2023. My role was to design new network architectures to improve performance of this model in delineation of gross tumor volume (GTV) in soft tissue sarcoma.
